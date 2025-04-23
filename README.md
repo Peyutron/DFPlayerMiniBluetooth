@@ -5,7 +5,7 @@ Control DFPlayerMini with DFPlayerMini BT
 * External Library:
   - [DFRobotDFPlayerMini](https://github.com/DFRobot/DFRobotDFPlayerMini/tree/master)
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5yr4cqn94U1y5jd0QuQvsrGWESmPIVIvUxiXnicxi9dhsimNFD2lHPmURxxUy8yV1jXRs4-_FhcHP66sUWdOoaOwAUsX8pEPLny1k0Lp7WpWdmk426KHoOQmu15iUbi7pz_8mo9AWZ7Akeq2oJnlLvPh5tQZqyVJfaikktQO0lSuZbfTE_7o-3lXuDDhD/s531/ESP32_DFPlayerMini_BT.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2064" data-original-width="1079" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5yr4cqn94U1y5jd0QuQvsrGWESmPIVIvUxiXnicxi9dhsimNFD2lHPmURxxUy8yV1jXRs4-_FhcHP66sUWdOoaOwAUsX8pEPLny1k0Lp7WpWdmk426KHoOQmu15iUbi7pz_8mo9AWZ7Akeq2oJnlLvPh5tQZqyVJfaikktQO0lSuZbfTE_7o-3lXuDDhD/s531/ESP32_DFPlayerMini_BT.png" width="167" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5yr4cqn94U1y5jd0QuQvsrGWESmPIVIvUxiXnicxi9dhsimNFD2lHPmURxxUy8yV1jXRs4-_FhcHP66sUWdOoaOwAUsX8pEPLny1k0Lp7WpWdmk426KHoOQmu15iUbi7pz_8mo9AWZ7Akeq2oJnlLvPh5tQZqyVJfaikktQO0lSuZbfTE_7o-3lXuDDhD/s531/ESP32_DFPlayerMini_BT.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2064" data-original-width="1079" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5yr4cqn94U1y5jd0QuQvsrGWESmPIVIvUxiXnicxi9dhsimNFD2lHPmURxxUy8yV1jXRs4-_FhcHP66sUWdOoaOwAUsX8pEPLny1k0Lp7WpWdmk426KHoOQmu15iUbi7pz_8mo9AWZ7Akeq2oJnlLvPh5tQZqyVJfaikktQO0lSuZbfTE_7o-3lXuDDhD/s531/ESP32_DFPlayerMini_BT.png"/></a>
 
 
 [DFPlayerMini BT for Android](https://play.google.com/store/apps/details?id=com.infotronikblog.dfplayerminibt)
