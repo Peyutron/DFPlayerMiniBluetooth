@@ -1,8 +1,10 @@
 /**
-  * Project instructions: https://github.com/
-  * Project repository:  https://github.com/
-  * web: http://www.infotronikblog.com
-  * Creator: Carlos Muñoz
+  * Version: DFPlayerMiniBluetooth 0.2
+  * Project instructions: https://www.infotronikblog.com/2025/04/dfplayer-mini-bluetooth-2025.html
+  * Project repository:  https://github.com/Peyutron/DFPlayerMiniBluetooth
+  * DFPlayer Mini BT PlayStore https://play.google.com/store/apps/details?id=com.infotronikblog.dfplayerminibt
+  * web: https://www.infotronikblog.com
+  * Creator: Carlos MC
   *
   * External Library:
   * - DFRobotDFPlayerMini https://github.com/DFRobot/DFRobotDFPlayerMini/tree/master
@@ -226,13 +228,15 @@ String processCommand(String cmd)
   {
     myDFPlayer.next();
     delay(100);
-    currentTrack = WaitForModuleResponse(4);
+    // currentTrack = WaitForModuleResponse(4);
+    currentTrack += 1;
     return "pn" + (String)currentTrack;
   } 
   else if (cmd.startsWith("pb")) // PREVIOUS
   { 
     myDFPlayer.previous();
-    currentTrack = WaitForModuleResponse(4);
+    // currentTrack = WaitForModuleResponse(4);
+    if (currentTrack >= 0) currentTrack -= 1;
     return "pb" + (String)currentTrack;;
 
   // Equalización
